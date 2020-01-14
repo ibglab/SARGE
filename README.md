@@ -1,4 +1,4 @@
-Stimulation Artifact Removal Graphical Environment (SARGE)
+# Stimulation Artifact Removal Graphical Environment (SARGE)
 
 The SARGE is a graphical user interface that enables the removal of stimulation artifacts.
 Full details regarding the SARGE application were published in:
